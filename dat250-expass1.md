@@ -32,4 +32,9 @@ I use IntelliJ as my main IDE.
 
 ## Heroku
 
-The Heroku installation went fine with no problems. When following the guide I encountered a problem under the "Local changes" part, where my local changes were not applied to the project. This was easily fixed by adding the pom.xml file as a maven project. The deployed tutorial website can be found [here](https://morning-plateau-31910.herokuapp.com/).
+The Heroku installation went fine with no problems. When following the guide I encountered a problem under the "Local changes" part, where my local changes were not applied to the project when running 
+```
+mvn clean install
+
+```
+This was easily fixed by adding the pom.xml file as a maven project. The deployed tutorial website can be found [here](https://morning-plateau-31910.herokuapp.com/).
