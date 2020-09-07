@@ -24,7 +24,6 @@ select * from bankdb;
 ```
 
 The tables for each experiment can be seen underneath. 
-![Tables experiment1](images/exp1-tables.png)
-![Tables experiment2](images/exp2-tables.png)
 
-
+<img src="images/exp1-tables.png" width="400">
+<img src="images/exp2-tables.png" width="400">
