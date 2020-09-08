@@ -20,7 +20,7 @@ command.
 I could further inspect the tables by using SQL statements. For example
 
 ```
-select * from bankdb;
+select * from bank;
 ```
 
 The tables for each experiment can be seen underneath. 
